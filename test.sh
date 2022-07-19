@@ -1,3 +1,6 @@
-touch testing.html
 
-git add-commit -m "Testing"
+echo "Testing">>test.txt
+
+git add-commit -m "Uploading"
+
+git push origin master
